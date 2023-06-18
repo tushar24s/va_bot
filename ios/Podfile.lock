@@ -1,0 +1,41 @@
+PODS:
+  - Flutter (1.0.0)
+  - image_downloader (0.0.1):
+    - Flutter
+  - speech_to_text (0.0.1):
+    - Flutter
+    - Try
+  - text_to_speech (0.0.1):
+    - Flutter
+  - Try (2.1.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - image_downloader (from `.symlinks/plugins/image_downloader/ios`)
+  - speech_to_text (from `.symlinks/plugins/speech_to_text/ios`)
+  - text_to_speech (from `.symlinks/plugins/text_to_speech/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Try
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  image_downloader:
+    :path: ".symlinks/plugins/image_downloader/ios"
+  speech_to_text:
+    :path: ".symlinks/plugins/speech_to_text/ios"
+  text_to_speech:
+    :path: ".symlinks/plugins/text_to_speech/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  image_downloader: 73e190d6c9f286f2649554051348d9cb319cd4b3
+  speech_to_text: b43a7d99aef037bd758ed8e45d79bbac035d2dfe
+  text_to_speech: 8669facdbd5b72d2939b810493defd991634f6f9
+  Try: 5ef669ae832617b3cee58cb2c6f99fb767a4ff96
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.12.1
